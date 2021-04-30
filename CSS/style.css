@@ -1,0 +1,66 @@
+html {
+    background-color: #E87450;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36pt;
+    font-weight: normal;
+}
+h2{
+    font-family: ;
+    font-size: ;
+
+}
+p{
+    font-family: ;
+    font-size: ;
+}
+.navigation{
+
+}
+.logo{
+
+}
+.inline-block{
+
+}
+.myWork{
+
+}
+
+.workGrid{
+
+}
+
+
+.mySkills{
+
+}
+.flexContainer{
+    display: flex;
+
+
+}
+.row{
+
+}
+.left-col{
+    display: flex;
+    float: left:
+    }
+.center-col{
+    display: flex;
+    float: center;
+}
+.right-column{
+    display: flex;
+    float: right;
+
+}
+.button{
+
+}
+.footer{
+    
+
+}
