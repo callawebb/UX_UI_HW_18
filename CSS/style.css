@@ -5,13 +5,14 @@ html {
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 36pt;
-    font-weight: normal;
+    font-weight: bold;
 }
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 24pt;
+    font-size: 20pt;
 }
 p {
+
     font-family: 'Noto Sans', sans-serif;
     font-size: 14pt;
 }
@@ -79,6 +80,7 @@ p {
 }
 .icon {
     visibility: hidden;
+    
 }
 
 @media screen and (max-width:375px)
@@ -86,6 +88,7 @@ p {
     .icon {
         display: inline-block;
         visibility: visible;
+        margin-left: 0px;
     }
 
     .nav-items {
